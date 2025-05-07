@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lvfx17xd9-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lvfx17xd9-python-gitops
